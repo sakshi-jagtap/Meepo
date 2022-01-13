@@ -2,8 +2,8 @@
 A new game called Meepo is you!
 To run:
 
-- git clone https://github.com/sakshi-jagtap/3-Muskeeteers.git
-- run "java src/main/java/assignment2/App.java" in cmd
+- git clone https://github.com/sakshi-jagtap/Meepo.git
+- run "python src/main/java/assignment2/App.java" in cmd
 
 ### Game rules:
 - you can save the current board by clicking "Save board" and entering the name, and then come back to it later

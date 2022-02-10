@@ -8,4 +8,4 @@ To run:
 ### Game rules:
 - use the arrow keys to move 
 - you could make up your own rules as you go just move blocks around
-- for example, you could make "wall is lose" and you will loose if you touch the wall
+- for example, you could make "wall is lose" and you will lose if you touch the wall

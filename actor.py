@@ -1,14 +1,4 @@
-"""
-Assignment 1: Meepo is You
 
-=== CSC148 Winter 2021 ===
-Department of Mathematical and Computational Sciences,
-University of Toronto Mississauga
-
-=== Module Description ===
-This module contains the Actor class and all its subclasses that represent
-different types of elements in the game.
-"""
 
 import pygame
 from typing import Tuple, Optional
